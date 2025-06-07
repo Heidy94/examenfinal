@@ -219,8 +219,7 @@ table td {
 .site-header {
   border-top: 5px solid rgb(248, 243, 243);
   border-bottom: 1px solid #021327;
-  color: white;
-  min-height: 55.95px;
+   min-height: 55.95px;
   position: relative;
 }
 
