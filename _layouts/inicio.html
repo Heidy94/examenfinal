@@ -1,18 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
   <title>{{ page.title }}</title>
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/main.css">
   <link rel="icon" href="{{ '/assets/LOGO.png' | relative_url }}" type="image/png">
 
 </head>
 
+<!--  -->
+
 <body>
-    <header class="site-header" role="banner">
-             <div class="wrapper">
+   <!--Aquí al header la cambié el color de fondo  -->
+    <header class="site-header" role="banner" style="background-color: #f3d0d6; color: rgb(255, 255, 255);">
+            
+      <div class="wrapper" >
                
-                  
-              <a class="site-title" rel="author" href="{{ site.baseurl }}/">
+    <!-- Aquí tiene negrita el título y cambio color -->              
+              <a class="site-title" rel="author" href="{{ site.baseurl }}/" style="color: rgb(66, 4, 4); font-weight: bold;"> 
   <img 
     src="{{ '/assets/LOGO.png' | relative_url }}" 
     alt="SysNova Solutions" 
@@ -30,10 +35,11 @@
                     </svg>
                 </span>
                 </label>
-            <div class="trigger">
-              <a class="page-link" href="{{ site.baseurl }}/about/">Misión y Visión</a>
-              <a class="page-link" href="{{ site.baseurl }}/catalog/">Catálogo</a>
-              <a class="page-link" href="{{ site.baseurl }}/contact/">Contáctanos</a>
+            <div class="trigger"  >
+           <!-- cambio de color a letras de menú en el header-->   
+              <a style="color: #07116b;" class="page-link" href="{{ site.baseurl }}/about/">Misión y Visión</a>
+              <a style="color: #07116b;" class="page-link" href="{{ site.baseurl }}/catalog/">Catálogo</a>
+              <a style="color: #07116b;" class="page-link" href="{{ site.baseurl }}/contact/">Contáctanos</a>
               </div>
             </nav>
         </div>
@@ -48,14 +54,15 @@
     </p>
   </div>
 </main>
-  
-<footer class="site-footer h-card"><data class="u-url" href="/"></data> 
+  <!--Aquí le cambié fondo al footer  -->
+<footer class="site-footer h-card" style="background-color: #f58195; color: rgb(133, 10, 10);"><data class="u-url" href="/"></data> 
   <div class="wrapper">
-    <h2 class="footer-heading">SysNova Solutions</h2>
-    <div class="footer-col-wrapper">
+     <!--cambio de color en la letra delfooter -->
+    <h2 class="footer-heading" style="color: #07116b;">SysNova Solutions</h2>
+    <div class="footer-col-wrapper" style="color: #07116b;">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-           <li class="p-name">Heidy Jeaneth Martinez Cuestas</li><li><a class="u-email" href="cuestasheidy@gmail.com">mailto:cuestasheidy@gmail.com</a></li></ul>
+           <li class="p-name">Heidy Jeaneth Martinez Cuestas</li><li><a class="u-email" href="cuestasheidy@gmail.com">cuestasheidy@gmail.com</a></li></ul>
       </div>
       <div class="footer-col footer-col-3">
         <p>Soluciones inteligentes para un mundo conectado</p>
