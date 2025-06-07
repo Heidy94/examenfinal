@@ -24,10 +24,10 @@ permalink: /about/
       <tbody>
         <tr>
           <td class="table-cell">
-            Brindar soluciones tecnológicas eficientes, seguras y sostenibles que impulsen el crecimiento de nuestros clientes.
+            En Brillo Rosa Studio trabajamos para resaltar la belleza de cada mujer a través del arte en uñas, ofreciendo un servicio personalizado, delicado y de alta calidad. Nuestra misión es brindar momentos de cuidado, estilo y confianza, en un ambiente cómodo y profesional.
           </td>
           <td class="table-cell">
-            Ser referentes en el desarrollo de ingeniería de sistemas en América Latina, con compromiso social, innovación constante y excelencia técnica.
+            Ser reconocidas en Guatemala como un estudio de referencia en diseño de uñas, destacando por nuestra creatividad, calidez y compromiso con cada clienta. Buscamos crecer con pasión, siempre innovando y manteniéndonos cerca de nuestras raíces.
           </td>
         </tr>
       </tbody>

@@ -21,24 +21,24 @@ permalink: /catalog/
       </thead>
       <tbody>
         <tr>
-          <td>Software de Gestión</td>
-          <td>Aplicación para administrar proyectos y recursos tecnológicos.</td>
-          <td>$1200 USD</td>
-           <td><img src="{{ '/assets/SOFTWARE.jpg' | relative_url }}"/></td>
+          <td>Manicure Spa Tradicional</td>
+          <td>Ideal para principiantes o retoque sencillo. Incluye lima, primer, pincel y polvo acrílico.</td>
+          <td>$200 USD</td>
+           <td><img src="{{ '/assets/MANICURE.jpg' | relative_url }}"/></td>
 
         </tr>
         <tr>
-          <td>Soluciones Cloud</td>
-          <td>Servicios en la nube para almacenamiento seguro y escalable.</td>
-          <td>$800 USD</td>
-           <td><img src="{{ '/assets/CLOUD.jpg' | relative_url }}"/></td>
+          <td>Uñas Acrílicas con Diseño Personalizado</td>
+          <td>Aplicación profesional con formas y arte según tu estilo.</td>
+          <td>$400 USD</td>
+           <td><img src="{{ '/assets/UÑAS.jpg' | relative_url }}"/></td>
 
         </tr>
         <tr>
-          <td>Consultoría TI</td>
-          <td>Asesoría en implementación y optimización de sistemas.</td>
-          <td>$150 por hora</td>
-          <td><img src="{{ '/assets/TI.jpg' | relative_url }}"/></td>
+          <td>Pedicure Relax con Esencias Naturales</td>
+          <td>Incluye baño de pies, exfoliación, mascarilla y masaje.</td>
+             <td>$300 USD</td>
+          <td><img src="{{ '/assets/PEDICURE.jpg' | relative_url }}"/></td>
         </tr>
       </tbody>
     </table>

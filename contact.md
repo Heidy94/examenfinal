@@ -17,15 +17,15 @@ permalink: /contact/
       <tbody>
         <tr>
           <th>Teléfono</th>
-          <td>+1 555 123 4567</td>
+          <td> +502 5123 4567</td>
         </tr>
         <tr>
           <th>Email</th>
-          <td>contacto@tecnoingenia.com</td>
+          <td>brillorosa.studio@gmail.com</td>
         </tr>
         <tr>
           <th>Dirección</th>
-          <td>Calle Innovación 123, Ciudad Tecnológica, País</td>
+          <td>Zona 10, Ciudad de Guatemala</td>
         </tr>
         <tr>
           <th>Horario</th>
